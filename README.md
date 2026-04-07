@@ -1,4 +1,4 @@
-# ⚡ VS Code Performance AI Booster 2026 — IDE Optimization & Productivity Pack
+# ⚡⚡⚡ VS Code Performance AI Booster 2026 — IDE Optimization & Productivity Pack
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/VSCode-Performance-Booster)](https://github.com/Alexantros341/VSCode-Performance-Booster)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
